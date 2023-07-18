@@ -1,5 +1,6 @@
 # Approximate Bayesian Computation
 
+[![CI](https://github.com/hannesbecher/ApproxBayes.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/hannesbecher/ApproxBayes.jl/actions/workflows/CI.yml)
 [![Build Status](https://travis-ci.org/marcjwilliams1/ApproxBayes.jl.svg?branch=master)](https://travis-ci.org/marcjwilliams1/ApproxBayes.jl)
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/marcjwilliams1/ApproxBayes.jl?branch=master&svg=true)](https://ci.appveyor.com/project/marcjwilliams1/approxbayes-jl/branch/master)
 [![Coverage Status](https://coveralls.io/repos/github/marcjwilliams1/ApproxBayes.jl/badge.svg?branch=master)](https://coveralls.io/github/marcjwilliams1/ApproxBayes.jl?branch=master)
